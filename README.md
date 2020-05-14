@@ -1,0 +1,2 @@
+# BERT_Japanese_Google_Colaboratory-
+Google Colaboratoryで日本語のBERTを動かす方法です。
